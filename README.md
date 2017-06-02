@@ -8,4 +8,4 @@ and run
 sudo chmod +x ./TimeMachine.sh
 sudo ./TimeMachine.sh
 ```
-and follow the steps.
+
